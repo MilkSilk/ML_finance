@@ -1,14 +1,20 @@
 # ML_finance
 Repository containing a project for machine learning in finance university course
 
+# Done
+Cut and paste here stuff from TODO, that's been done
 
 # TODO
 
-## Functional and non-functional requirements documentby 14/03/2022 (changed to 11/04/2022)
+### Functional and non-functional requirements documentby 14/03/2022 (changed to 11/04/2022)
+Person responsible: TBD
+
 • Gathered and summarised
 
 
-## Data preparation (by 11/04/2022)
+### Data preparation (by 11/04/2022)
+Person responsible: TBD
+
 • Gather general statistics about the provided convictions time-series
 
 • Identify any potential problems with data, filter outliers etc.
@@ -17,7 +23,9 @@ Repository containing a project for machine learning in finance university cours
 data for each symbol (sources, e.g. Yahoo Finance or Google)
 
 
-## Implement a simple analysis harness that (by 28/03/2022) (changed to 11/04/2022)
+### Implement a simple analysis harness that (by 28/03/2022) (changed to 11/04/2022)
+Person responsible: TBD
+
 • a) splits data into training and test sets,
 
 • b) trains a dummy model,
@@ -26,7 +34,9 @@ data for each symbol (sources, e.g. Yahoo Finance or Google)
 
 • d) generate stats in a form of a pdf report.
 
-## Initial modelling (11/04/2022)
+### Initial modelling (11/04/2022)
+Person responsible: TBD
+
 • Implement a simple regression model to be used as a baseline for further
 analysis
 
@@ -34,7 +44,9 @@ analysis
 generalizes on the out-of-sample data
 
 
-## Advanced modelling (by 30/05/2022)
+### Advanced modelling (by 30/05/2022)
+Person responsible: Everyone
+
 • Develop, train, test and cross-validate three alternative models
 
 • Compare performance of the models against a baseline model and against
