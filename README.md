@@ -1,6 +1,10 @@
 # ML_finance
 Repository containing a project for machine learning in finance university course
 
+Suggested code format: jupyter notebooks
+
+It's supposed to be a python script by the end, but it shouldn't take too much time converting notebooks to a script (hopefully) 
+
 # Done
 Cut and paste here stuff from TODO, that's been done
 
