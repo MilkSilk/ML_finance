@@ -8,13 +8,13 @@ Cut and paste here stuff from TODO, that's been done
 The first date in each subsection is out internal deadline for a given part
 
 ### 9.04 Functional and non-functional requirements document by 14/03/2022 (changed to 11/04/2022)
-Person responsible: TBD
+Person responsible: Kasia Górczyńska
 
 • Gathered and summarised
 
 
 ### 7.04 Data preparation (by 11/04/2022)
-Person responsible: TBD
+Person responsible: Jacek Jankowiak
 
 • Gather general statistics about the provided convictions time-series
 
@@ -25,7 +25,7 @@ data for each symbol (sources, e.g. Yahoo Finance or Google)
 
 
 ### 9.04 Implement a simple analysis harness that (by 28/03/2022) (changed to 11/04/2022)
-Person responsible: TBD
+Person responsible: Mikołaj Szymczak
 
 • a) splits data into training and test sets,
 
@@ -36,7 +36,7 @@ Person responsible: TBD
 • d) generate stats in a form of a pdf report.
 
 ### 11.04 Initial modelling (11/04/2022)
-Person responsible: TBD
+Person responsible: Kasia Górczyńska + Mikołaj Szymczak (+ Jacek Jankowiak)
 
 • Implement a simple regression model to be used as a baseline for further
 analysis
