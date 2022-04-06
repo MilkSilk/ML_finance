@@ -6,7 +6,7 @@ Cut and paste here stuff from TODO, that's been done
 
 # TODO
 
-### Functional and non-functional requirements documentby 14/03/2022 (changed to 11/04/2022)
+### Functional and non-functional requirements document by 14/03/2022 (changed to 11/04/2022)
 Person responsible: TBD
 
 • Gathered and summarised
