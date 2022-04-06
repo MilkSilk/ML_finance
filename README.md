@@ -5,14 +5,15 @@ Repository containing a project for machine learning in finance university cours
 Cut and paste here stuff from TODO, that's been done
 
 # TODO
+The first date in each subsection is out internal deadline for a given part
 
-### Functional and non-functional requirements document by 14/03/2022 (changed to 11/04/2022)
+### 9.04 Functional and non-functional requirements document by 14/03/2022 (changed to 11/04/2022)
 Person responsible: TBD
 
 • Gathered and summarised
 
 
-### Data preparation (by 11/04/2022)
+### 7.04 Data preparation (by 11/04/2022)
 Person responsible: TBD
 
 • Gather general statistics about the provided convictions time-series
@@ -23,7 +24,7 @@ Person responsible: TBD
 data for each symbol (sources, e.g. Yahoo Finance or Google)
 
 
-### Implement a simple analysis harness that (by 28/03/2022) (changed to 11/04/2022)
+### 9.04 Implement a simple analysis harness that (by 28/03/2022) (changed to 11/04/2022)
 Person responsible: TBD
 
 • a) splits data into training and test sets,
@@ -34,7 +35,7 @@ Person responsible: TBD
 
 • d) generate stats in a form of a pdf report.
 
-### Initial modelling (11/04/2022)
+### 11.04 Initial modelling (11/04/2022)
 Person responsible: TBD
 
 • Implement a simple regression model to be used as a baseline for further
