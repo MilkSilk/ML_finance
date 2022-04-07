@@ -22,7 +22,7 @@ Person responsible: Kasia Górczyńska
 • Gathered and summarised
 
 
-### 7.04 Data preparation (by 11/04/2022)
+### 7.04 Data preparation (by 11/04/2022) (80% done)
 Person responsible: Jacek Jankowiak
 
 • Gather general statistics about the provided convictions time-series
