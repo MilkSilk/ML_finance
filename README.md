@@ -5,6 +5,11 @@ Suggested code format: jupyter notebooks
 
 It's supposed to be a python script by the end, but it shouldn't take too much time converting notebooks to a script (hopefully) 
 
+### Resources
+Great guide for time series analysis: https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-to-time-series-analysis/
+
+About yahoo finance api for stock prices: https://www.analyticsvidhya.com/blog/2021/06/download-financial-dataset-using-yahoo-finance-in-python-a-complete-guide/
+
 # Done
 Cut and paste here stuff from TODO, that's been done
 
