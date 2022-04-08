@@ -128,5 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Data file
+# Data files
 CONVICTIONLISTTOPN_BSLD-408.csv
+dataset.csv
+yfinance_data.csv
