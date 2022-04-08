@@ -1,6 +1,8 @@
 # ML_finance
 Repository containing a project for machine learning in finance university course
 
+Link to created dataset: https://we.tl/t-pgiAJ7nrhE
+
 Suggested code format: jupyter notebooks
 
 It's supposed to be a python script by the end, but it shouldn't take too much time converting notebooks to a script (hopefully) 
@@ -11,18 +13,8 @@ Great guide for time series analysis: https://www.analyticsvidhya.com/blog/2021/
 About yahoo finance api for stock prices: https://www.analyticsvidhya.com/blog/2021/06/download-financial-dataset-using-yahoo-finance-in-python-a-complete-guide/
 
 # Done
-Cut and paste here stuff from TODO, that's been done
 
-# TODO
-The first date in each subsection is out internal deadline for a given part
-
-### 9.04 Functional and non-functional requirements document by 14/03/2022 (changed to 11/04/2022)
-Person responsible: Kasia Górczyńska
-
-• Gathered and summarised
-
-
-### 7.04 Data preparation (by 11/04/2022) (80% done)
+### 7.04 Data preparation (by 11/04/2022) (DONE 8.04, sorry for the delay)
 Person responsible: Jacek Jankowiak
 
 • Gather general statistics about the provided convictions time-series
@@ -32,6 +24,13 @@ Person responsible: Jacek Jankowiak
 • Prepare a master index of stock symbols and retrieve corresponding price
 data for each symbol (sources, e.g. Yahoo Finance or Google)
 
+# TODO
+The first date in each subsection is out internal deadline for a given part
+
+### 9.04 Functional and non-functional requirements document by 14/03/2022 (changed to 11/04/2022)
+Person responsible: Kasia Górczyńska
+
+• Gathered and summarised
 
 ### 9.04 Implement a simple analysis harness that (by 28/03/2022) (changed to 11/04/2022)
 Person responsible: Mikołaj Szymczak
