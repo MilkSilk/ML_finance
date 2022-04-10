@@ -132,3 +132,4 @@ dmypy.json
 CONVICTIONLISTTOPN_BSLD-408.csv
 dataset.csv
 yfinance_data.csv
+data/*
