@@ -24,14 +24,6 @@ Person responsible: Jacek Jankowiak
 • Prepare a master index of stock symbols and retrieve corresponding price
 data for each symbol (sources, e.g. Yahoo Finance or Google)
 
-# TODO
-The first date in each subsection is out internal deadline for a given part
-
-### 9.04 Functional and non-functional requirements document by 14/03/2022 (changed to 11/04/2022)
-Person responsible: Kasia Górczyńska
-
-• Gathered and summarised
-
 ### 9.04 Implement a simple analysis harness that (by 28/03/2022) (changed to 11/04/2022)
 Person responsible: Mikołaj Szymczak
 
@@ -51,6 +43,16 @@ analysis
 
 • Train, test and cross-validate the regression model and show that the model
 generalizes on the out-of-sample data
+
+
+# TODO
+The first date in each subsection is out internal deadline for a given part
+
+### 9.04 Functional and non-functional requirements document by 14/03/2022 (changed to 11/04/2022)
+Person responsible: Kasia Górczyńska
+
+• Gathered and summarised
+
 
 
 ### Advanced modelling (by 30/05/2022)
