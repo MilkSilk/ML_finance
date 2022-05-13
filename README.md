@@ -14,6 +14,11 @@ About yahoo finance api for stock prices: https://www.analyticsvidhya.com/blog/2
 
 # Done
 
+### 9.04 Functional and non-functional requirements document by 14/03/2022 (changed to 11/04/2022)
+Person responsible: Kasia Górczyńska
+
+• Gathered and summarised
+
 ### 7.04 Data preparation (by 11/04/2022) (DONE 8.04, sorry for the delay)
 Person responsible: Jacek Jankowiak
 
@@ -47,13 +52,6 @@ generalizes on the out-of-sample data
 
 # TODO
 The first date in each subsection is out internal deadline for a given part
-
-### 9.04 Functional and non-functional requirements document by 14/03/2022 (changed to 11/04/2022)
-Person responsible: Kasia Górczyńska
-
-• Gathered and summarised
-
-
 
 ### Advanced modelling (by 30/05/2022)
 Person responsible: Everyone
