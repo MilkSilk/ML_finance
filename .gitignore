@@ -134,3 +134,4 @@ dataset.csv
 yfinance_data.csv
 data/*
 reports/*
+*.csv
