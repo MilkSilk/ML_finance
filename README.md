@@ -50,9 +50,6 @@ analysis
 generalizes on the out-of-sample data
 
 
-# TODO
-The first date in each subsection is out internal deadline for a given part
-
 ### Advanced modelling (by 30/05/2022)
 Person responsible: Everyone
 
@@ -63,3 +60,6 @@ each other for the various investment horizons
 
 • Perform stability and sensitivity analysis w.r.t baseline model and investment
 horizons
+
+# TODO
+All done!
